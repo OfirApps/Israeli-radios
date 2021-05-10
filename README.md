@@ -1,4 +1,4 @@
-# israeli-radio
+# Israeli-radios
 Israeli radio stations in simple HTML and JavaScript Code + Visualizer
 
 Live Demo Link
